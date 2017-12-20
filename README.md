@@ -1,8 +1,8 @@
-# PLUGIN_easy-reveal
-#####Le easy-reveal, c'est easy!
+# PLUGIN_esay-reveal
+#####Le esay-reveal, c'est esay!
 Les éléments apparaîssent quand tu scrolles, comme par magie!
 
-## T'as besoin de quelques trucs pour que ce soit EASY:
+## T'as besoin de quelques trucs pour que ce soit Esay:
 #### Tout d'abord tu télécharges le git, qui comprends tous les fichiers dont t'as besoin!!
 
 #### Il te faut ajouter la class element, à tous les éléments que tu veux faire apparaîtrent au scroll!!!
