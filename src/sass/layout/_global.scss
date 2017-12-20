@@ -1,0 +1,20 @@
+html {
+    box-sizing: border-box;
+}
+
+* , *:before, *:after {
+   box-sizing: inherit;
+}
+.element{
+    opacity: 1 ;
+    visibility: visible ;
+    transform: translateY(0) ;
+    transition: 0.8s ease-in-out;
+}
+.cacher{
+    opacity: 0 ;
+    visibility: hidden ;
+    transform: translateY(15px);
+    // transition: 0.8s ease-in-out;
+
+}
