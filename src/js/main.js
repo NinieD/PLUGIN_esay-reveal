@@ -5,8 +5,9 @@ var $doc = $(document);
 var elementOffset;
 // var $docScroll = $doc.scrollTop();
 var $winHeight = $(window).height();
-var offset = 30;
+var offset = 3;
 var ratio = $winHeight * offset / 100;
+
 
 $element.addClass('cacher');
 
